@@ -1,0 +1,6 @@
+{
+  "name": "LifeLine",
+  "description": "One Platform All Solution, Brahmanbaria District",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
